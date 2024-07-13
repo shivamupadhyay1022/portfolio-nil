@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slide-in{
+  position:fiexd;
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100vh;
+  background:#0f0f0f;
+  transform-orgin: bottom;
+}
+
+.slide-out{
+  position:fiexd;
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100vh;
+  background:#0f0f0f;
+  transform-orgin: bottom;
+}
+
